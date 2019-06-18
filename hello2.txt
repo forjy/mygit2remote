@@ -1,2 +1,300 @@
-更新
-111111
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/1019/20161019014631203.jpg',
+  path: '/uploadfile/2016/1019/20161019014631203.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/1019/20161019014631203.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/1019/20161019014646493.jpg',
+  path: '/uploadfile/2016/1019/20161019014646493.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/1019/20161019014646493.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/1019/20161019014655917.jpg',
+  path: '/uploadfile/2016/1019/20161019014655917.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/1019/20161019014655917.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/1019/20161019014705661.jpg',
+  path: '/uploadfile/2016/1019/20161019014705661.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/1019/20161019014705661.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2017/0303/20170303032039133.jpg',
+  path: '/uploadfile/2017/0303/20170303032039133.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2017/0303/20170303032039133.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2017/0303/20170303032217441.jpg',
+  path: '/uploadfile/2017/0303/20170303032217441.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2017/0303/20170303032217441.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2017/0303/20170303032135616.jpg',
+  path: '/uploadfile/2017/0303/20170303032135616.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2017/0303/20170303032135616.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'img1.mydrivers.com',
+  port: null,
+  hostname: 'img1.mydrivers.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/img/20180826/Sc9ee2380-ae97-4278-9258-157e1667ed3e.jpg',
+  path: '/img/20180826/Sc9ee2380-ae97-4278-9258-157e1667ed3e.jpg',
+  href: 'http://img1.mydrivers.com/img/20180826/Sc9ee2380-ae97-4278-9258-157e166
+7ed3e.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/statics/images/muban/images/zhaojinglei.jpg',
+  path: '/statics/images/muban/images/zhaojinglei.jpg',
+  href: 'http://www.vqudo.com/statics/images/muban/images/zhaojinglei.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/statics/images/muban/images/dengjianfei.jpg',
+  path: '/statics/images/muban/images/dengjianfei.jpg',
+  href: 'http://www.vqudo.com/statics/images/muban/images/dengjianfei.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0509/20160509072356868.jpg',
+  path: '/uploadfile/2016/0509/20160509072356868.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0509/20160509072356868.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0509/20160509072334898.jpg',
+  path: '/uploadfile/2016/0509/20160509072334898.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0509/20160509072334898.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0509/20160509072311295.jpg',
+  path: '/uploadfile/2016/0509/20160509072311295.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0509/20160509072311295.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0509/20160509072447726.jpg',
+  path: '/uploadfile/2016/0509/20160509072447726.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0509/20160509072447726.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0509/20160509072421631.jpg',
+  path: '/uploadfile/2016/0509/20160509072421631.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0509/20160509072421631.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0509/20160509072507868.jpg',
+  path: '/uploadfile/2016/0509/20160509072507868.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0509/20160509072507868.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0509/20160509072216685.jpg',
+  path: '/uploadfile/2016/0509/20160509072216685.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0509/20160509072216685.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0509/20160509072143343.jpg',
+  path: '/uploadfile/2016/0509/20160509072143343.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0509/20160509072143343.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0509/20160509072114491.jpg',
+  path: '/uploadfile/2016/0509/20160509072114491.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0509/20160509072114491.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0509/20160509072020228.jpg',
+  path: '/uploadfile/2016/0509/20160509072020228.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0509/20160509072020228.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0509/20160509071838110.jpg',
+  path: '/uploadfile/2016/0509/20160509071838110.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0509/20160509071838110.jpg' }
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'www.vqudo.com',
+  port: null,
+  hostname: 'www.vqudo.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/uploadfile/2016/0428/20160428045029909.jpg',
+  path: '/uploadfile/2016/0428/20160428045029909.jpg',
+  href: 'http://www.vqudo.com/uploadfile/2016/0428/20160428045029909.jpg' }
+
+C:\Users\JSX\Desktop\nodetest\day02>node code08
+
+C:\Users\JSX\Desktop\nodetest\day02\code08.js:25
+        console.log(path1.parse(url).);
+                                     ^
+SyntaxError: Unexpected token )
+    at Module._compile (module.js:439:25)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:935:3
+
+C:\Users\JSX\Desktop\nodetest\day02>node code08
+
+C:\Users\JSX\Desktop\nodetest\day02\code08.js:25
+        console.log(path1.parse(url));
+                          ^
+TypeError: Object #<Object> has no method 'parse'
+    at getImg (C:\Users\JSX\Desktop\nodetest\day02\code08.js:25:20)
+    at IncomingMessage.<anonymous> (C:\Users\JSX\Desktop\nodetest\day02\code08.j
+s:17:4)
+    at IncomingMessage.emit (events.js:117:20)
+    at _stream_readable.js:944:16
+    at process._tickCallback (node.js:448:13)
+
+C:\Users\JSX\Desktop\nodetest\day02>node code08
+
+C:\Users\JSX\Desktop\nodetest\day02\code08.js:25
+        console.log(path1.parse(url));
+                          ^
+TypeError: Object #<Object> has no method 'parse'
+    at getImg (C:\Users\JSX\Desktop\nodetest\day02\code08.js:25:20)
+    at IncomingMessage.<anonymous> (C:\Users\JSX\Desktop\nodetest\day02\code08.j
+s:17:4)
+    at IncomingMessage.emit (events.js:117:20)
+    at _stream_readable.js:944:16
+    at process._tickCallback (node.js:448:13)
+
+C:\Users\JSX\Desktop\nodetest\day02>
